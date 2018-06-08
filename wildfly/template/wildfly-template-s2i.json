@@ -385,7 +385,7 @@
             "name": "IMAGE_NAME",
             "displayName": "Nome da imagem.",
             "description": "Nome da imagem.",
-            "value": "s2i-${TECNOLOGY}",
+            "value": "${IMAGE_NAME}",
             "required": true
         },
         {
